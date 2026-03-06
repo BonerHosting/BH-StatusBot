@@ -92,7 +92,7 @@ https://discord.com/oauth2/authorize?client_id=YOUR_CLIENT_ID&permissions=8&scop
   
 ### ⚠️ 9. Issues
 
-I currently know of **ZERO** issues with the code, if you find any issues please let me know by going [here](https://github.com/BonerHosting/BH-ProxyBot/issues) and creating a new issue or reaching out to me with the following
+I currently know of **ZERO** issues with the code, if you find any issues please let me know by going [here](https://github.com/BonerHosting/BH-StatusBot/issues) and creating a new issue or reaching out to me with the following
 
 Email: [owen@puds.lol](mailto:owen@puds.lol)
 Discord: ac1q
