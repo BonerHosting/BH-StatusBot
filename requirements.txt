@@ -1,0 +1,4 @@
+interactions.py
+requests
+python-dotenv
+colorama
